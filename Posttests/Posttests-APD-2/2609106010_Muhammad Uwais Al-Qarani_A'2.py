@@ -11,7 +11,6 @@ total_bayar = subtotal + (0.15 * subtotal)
 
 kurs_usd = 18000
 kurs_euro = 20000
-total_idr = total_bayar
 total_euro = total_bayar / kurs_euro
 total_usd = total_bayar / kurs_usd
 
